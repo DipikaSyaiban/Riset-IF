@@ -27,4 +27,3 @@ Menurut Rich and Knight, kecerdasan buatan merupakan sebuah studi tentang bagaim
 
 Referensi: [https://elib.unikom.ac.id/files/disk1/67/jbptunikompp-gdl-s1-2006-aguswidian-3341-bab-ii-s-i.pdf](url)
 Kecerdasan buatan adalah salah satu bagian ilmu komputer yang membuat agar mesin seperti komputer dapat melakukan tugas-tugas yang pada umumnya memerlukan kecerdasan manusia
-
