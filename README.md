@@ -1,2 +1,4 @@
 # Riset-IF
-Nama : Dipika Syaiban AinunNPM : 20081010226 Kelas : Riset Informatika D
+Nama : Dipika Syaiban Ainun
+NPM : 20081010226
+Kelas : Riset Informatika D
