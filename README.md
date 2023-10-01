@@ -1,4 +1,4 @@
 # Riset-IF
-Nama	: Dipika Syaiban Ainun
-NPM 	: 20081010226
-Kelas	: Riset Informatika D081
+<li>Nama : Dipika Syaiban Ainun</li>
+<li>NPM 	: 20081010226</li>
+<li>Kelas	: Riset Informatika D081</li>
