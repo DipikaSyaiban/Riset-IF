@@ -19,5 +19,7 @@
 - Design Thinking
 <br> Design thinking adalah metode untuk memecahkan masalah dan menciptakan solusi yang berfokus pada user. Metode ini melibatkan serangkaian langkah yang terstruktur, termasuk pemahaman masalah, ideasi, prototyping, dan pengujian
 
+
 Reference:
 [^1]: [Indah, D. R., Firdaus, M. A., Fandra, M., Pratama, E., Saputra, D. M., Sistem, J., Fakultas, I., Komputer, I., & Sriwijaya, U. (n.d.). PERANCANGAN UI/UX PADA PROTOTYPE KNOWLEDGE MANAGEMENT SYSTEM PEMBELAJARAN SMA MENGGUNAKAN METODE DESIGN THINKING. JSI: Jurnal Sistem Informasi (E Journal), 14(2), 2022.](http://ejournal.unsri.ac.id/index.php/jsi/index)
+[^2]: [Ritonga, M. F. A. PERANCANGAN UI/UX MENGGUNAKAN METODE USER CENTERED DESIGN BERBASIS WEB PADA PERHITUNGAN LUASAN KUMUH BALAI PRASARANA PERMUKIMAN WILAYAH LAMPUNG. Digital Repository UNILA, 2022.](https://digilib.unila.ac.id/68889/)
