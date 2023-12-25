@@ -19,7 +19,22 @@
 - Design Thinking
 <br> Design thinking adalah metode untuk memecahkan masalah dan menciptakan solusi yang berfokus pada user. Metode ini melibatkan serangkaian langkah yang terstruktur, termasuk pemahaman masalah, ideasi, prototyping, dan pengujian
 
+## Reference:
+1. Indah, D. R., Firdaus, M. A., Fandra, M., Pratama, E., Saputra, D. M., Sistem, J., Fakultas, I., Komputer, I., & Sriwijaya, U. (n.d.). PERANCANGAN UI/UX PADA PROTOTYPE KNOWLEDGE MANAGEMENT SYSTEM PEMBELAJARAN SMA MENGGUNAKAN METODE DESIGN THINKING. JSI: Jurnal Sistem Informasi (E Journal), 14(2), 2022.
 
-Reference:
-[^1]: [Indah, D. R., Firdaus, M. A., Fandra, M., Pratama, E., Saputra, D. M., Sistem, J., Fakultas, I., Komputer, I., & Sriwijaya, U. (n.d.). PERANCANGAN UI/UX PADA PROTOTYPE KNOWLEDGE MANAGEMENT SYSTEM PEMBELAJARAN SMA MENGGUNAKAN METODE DESIGN THINKING. JSI: Jurnal Sistem Informasi (E Journal), 14(2), 2022.](http://ejournal.unsri.ac.id/index.php/jsi/index)
-[^2]: [Ritonga, M. F. A. PERANCANGAN UI/UX MENGGUNAKAN METODE USER CENTERED DESIGN BERBASIS WEB PADA PERHITUNGAN LUASAN KUMUH BALAI PRASARANA PERMUKIMAN WILAYAH LAMPUNG. Digital Repository UNILA, 2022.](https://digilib.unila.ac.id/68889/)
+## Analisis
+Design Thinking:
+1. Empathize: Memahami keinginan, kebutuhan serta tujuan user pada sebuah aplikasi maupun website yang akan dibuat
+2. Define: Mengumpulkan data serta mendefinisikan kebutuhan user menjadi poin-poin yang akan dikelompokkan menjadi per-kategori
+3. Ideate: Membuat ide-ide fitur yang menarik, berdasarkan hasil dari data dan kebutuhan user
+4. Prototype: Membuat tampilan low-fidelity serta hi-fidelity untuk ditampilkan kepada user
+5. Testing: Melakukan usability testing pada project yang telah dilakukan
+
+## Output Pengujian
+| No | Hasil Testing | Keterangan |
+| :---: | - | - |
+| 1 | Overall flow | sudah lancar dan tidak ada kendala dari awal hingga akhir |
+| 2 | Kode Verifikasi | Masih harus di input secara manual, harus diperbaiki agar bisa otomatis |
+| 3 | User Interface | Belum tertata secara maksimal |
+| 4 | Sistem alur pemesanan konsultasi | Flow-nya masih terlalu complex |
+| 5 | Jenis spesialis |	Kurang lengkap |
