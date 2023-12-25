@@ -18,3 +18,6 @@
 <br> Pendekatan ini memfokuskan pada kebutuhan, preferensi, dan pengalaman pengguna dalam proses desain aplikasi. Pada kasus ini nantinya akan menerapkan pendekatan mobile-first desain.
 - Design Thinking
 <br> Design thinking adalah metode untuk memecahkan masalah dan menciptakan solusi yang berfokus pada user. Metode ini melibatkan serangkaian langkah yang terstruktur, termasuk pemahaman masalah, ideasi, prototyping, dan pengujian
+
+Reference:
+[^1]: [Indah, D. R., Firdaus, M. A., Fandra, M., Pratama, E., Saputra, D. M., Sistem, J., Fakultas, I., Komputer, I., & Sriwijaya, U. (n.d.). PERANCANGAN UI/UX PADA PROTOTYPE KNOWLEDGE MANAGEMENT SYSTEM PEMBELAJARAN SMA MENGGUNAKAN METODE DESIGN THINKING. JSI: Jurnal Sistem Informasi (E Journal), 14(2), 2022.](http://ejournal.unsri.ac.id/index.php/jsi/index)
