@@ -10,8 +10,8 @@
 
 ## Paper Yang Menggunakan Metode/Metodologi
 
-- [Perancangan UI/UX Pada Prototype Knowledge Management System Pembelajaran SMA Menggunakan Metode Design Thinking](https://ejournal.unsri.ac.id/index.php/jsi/article/view/19463)
-- [Perancangan UI/UX Menggunakan Metode User Centered Design Berbasis Web Pada Perhitungan Luasan Kumuh Balai Prasarana Permukiman Wilayah Lampung](https://digilib.unila.ac.id/68889/)
+1. [Perancangan UI/UX Pada Prototype Knowledge Management System Pembelajaran SMA Menggunakan Metode Design Thinking](https://ejournal.unsri.ac.id/index.php/jsi/article/view/19463)
+2. [Perancangan UI/UX Menggunakan Metode User Centered Design Berbasis Web Pada Perhitungan Luasan Kumuh Balai Prasarana Permukiman Wilayah Lampung](https://digilib.unila.ac.id/68889/)
 
 ## Implementasi Pada Riset
 - User-Centered Design (UCD)
